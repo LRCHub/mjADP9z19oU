@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "じゃあね、またね。",
+  "base_artist": "りりあ。",
+  "createdAt": "2026-03-26T00:48:28.616869Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "じゃあね、またね。",
+      "artist": "りりあ。",
+      "has_synced": true,
+      "path": "select/01_じゃあね、またね。_りりあ。.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "じゃあね、またね。",
+      "artist": "りりあ。",
+      "has_synced": true,
+      "path": "select/02_じゃあね、またね。_りりあ。.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "じゃあね、またね。",
+      "artist": "りりあ。",
+      "has_synced": false,
+      "path": "select/pl_01_じゃあね、またね。_りりあ。.txt"
+    }
+  ]
+}
